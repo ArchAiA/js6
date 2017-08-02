@@ -1,0 +1,18 @@
+
+Things to Figure Out
+1) Install and work out dependency issues with LinuxBrew
+2) Use Brew to install git, and node
+
+
+Homework
+3) http://jsforcats.com/
+4) http://blog.teamtreehouse.com/command-line-basics
+
+
+
+Review
+1) Admin
+2) Setup
+3) Why JS?
+4) What is JS?
+5) 

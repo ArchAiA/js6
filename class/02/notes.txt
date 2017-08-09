@@ -1,0 +1,23 @@
+Programming Languages
+	strongly typed vs loosely typed
+	compiled vs interpreted
+
+Command Line Interface
+
+Programs
+	store data
+	categorize data
+	manipulate data
+
+Javascript Syntax
+	variable declartions
+		variable definition
+			in ES6
+				let
+				const
+	camelCase
+	escape characters
+	expressions and statements
+	data types
+
+Scripted Programs and the Node REPL

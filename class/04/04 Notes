@@ -1,0 +1,14 @@
+Review
+	Conditionals
+		if
+		if/else
+		else if
+		logical operands (&&, ||, !)
+	Truthy/Falsy
+
+
+Control
+	For loops are used when you know when you know when you want to stop the loop
+	While loops are used when you do not know how many times you would like to execute the loop
+	
+
